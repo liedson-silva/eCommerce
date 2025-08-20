@@ -20,4 +20,4 @@ Você pode acessar o projeto online clicando no link abaixo:
 
 ## Imagem do projeto
    
-![Screenshot do site](./src/assets/imagemSite.png)
+![Screenshot do site](./frontEnd/src/assets/imagemSite.png)
